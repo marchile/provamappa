@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Golf Bogliaco",
+        "description": "Prova descrizione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.636648535728455,
+          45.66267674313022
+        ]
+      }
+    }
+  ]
+}
