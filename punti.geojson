@@ -14,6 +14,20 @@
           45.66267674313022
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaino",
+        "description": "prova descrizione"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.614359378814697,
+          45.65475060226084
+        ]
+      }
     }
   ]
 }
