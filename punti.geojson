@@ -28,6 +28,34 @@
           45.65475060226084
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pulciano",
+        "description": "descrizione pulciano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.61950922012329,
+          45.65067086443707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Camping prova",
+        "description": "prova descrizione camping"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.616601705551147,
+          45.63722212453451
+        ]
+      }
     }
   ]
 }
